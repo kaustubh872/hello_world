@@ -1,3 +1,3 @@
 x = 10
 y = 20
-print "%d" % (x * y)
+print "%d" % (x * y * 1)

@@ -1,4 +1,4 @@
 x = 10
 y = 3
-print "%s" % (x - y)
-
+z = 1
+print "%d" % (x - y - z)
